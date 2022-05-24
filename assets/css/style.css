@@ -803,8 +803,8 @@ a:hover {
 # About
 --------------------------------------------------------------*/
 .about-mf .box-shadow-full {
-  padding-top: 4rem;
-  padding-bottom: 4rem;
+  padding-top: 3rem;
+  padding-bottom: 3rem;
 }
 
 .about-mf .about-img {
@@ -1415,6 +1415,7 @@ footer {
   color: #fff;
   padding: 25px 0;
   background: #AF16CD;
+  margin-top: auto;
 }
 
 footer .copyright {
@@ -1428,3 +1429,14 @@ footer .credits {
 footer .credits a {
   color: #fff;
 }
+
+.titleFey {
+  text-decoration: none;
+  color: #4e4e4e;
+  font-size: 1.1rem;
+}
+
+.ytvideo {
+  margin-top: 3cm;
+}
+
